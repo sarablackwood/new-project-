@@ -1,4 +1,3 @@
 this is new project 
 
-day 6.30
-
+day 7/01
