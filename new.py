@@ -1,3 +1,3 @@
 this is new project 
 
-day 7/01
+day 7/02
